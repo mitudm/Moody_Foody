@@ -1,7 +1,7 @@
 # Flutter Food Delivery Application Design
 
 Flutter Food Delivery Application UI/UX design 
-In this video we use, Flutter Animation, ListView, Tween, Transition, LinearGradient and so on in the one-speed video.
+In this we use, Flutter Animation, ListView, Tween, Transition, LinearGradient,etc.
 
 ## ScreenShot
 
